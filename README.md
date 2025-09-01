@@ -24,18 +24,16 @@ Indian college students (18–24) face unique financial challenges such as peer 
 
 ---
 
-## 👥 User Personas  
-- **Aadi (18, Tier-2)**: Always tight on money, needs micro-saving habits.  
-- **Neha (21, Tier-1)**: Overspends socially, needs balance between fun and savings.  
-- **Rohit (23, Tier-1)**: Manages allowance + freelance income, wants early investment discipline.  
+## 📊 Analytics & Dataset Insights  
+We analyzed a **survey dataset of 1,000+ Indian college students** to understand financial challenges, spending patterns, and saving behaviors.  
 
----
+Key insights uncovered:  
+- **Allowance distribution**: Majority between ₹3k–₹5k; <₹3k group reported higher overspending.  
+- **Spending categories**: Rent + outings took up over 60% of monthly allowance.  
+- **Top challenges**: Overspending (52%), lack of emergency fund (34%), irregular income (28%).  
+- **Financial confidence gap**: Students with side gigs showed higher confidence but lacked structured saving habits.  
 
-## 📊 Dataset  
-We analyzed a **survey dataset of 1,000+ Indian college students** covering:  
-- Allowance levels (<3k, 3–5k, >5k)  
-- Spending habits (rent, outings, social life)  
-- Financial challenges (overspending, saving, debt, emergency funds)  
+These insights directly shaped **feature prioritization** (UPI-first infra, pocket vault, gamification) to ensure Penguin solved the most pressing pain points.  
 
 Dataset file: `student_finance_survey_dataset.csv`  
 
